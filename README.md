@@ -10,10 +10,10 @@ To build and run this project:
 
 (Please note that a Mac with XCode is required to build for iOS)
 
-| [**Log in screen**](https://media.giphy.com/media/U4GJUh0noZsyzuFHoO/giphy.gif)      | [**Sign in to chat**](https://medium.com/@diegoveloper/flutter-app-clone-android-messages-e4b034a6c893)     | 
+| [**Log in screen**]    | [**Sign in to chat**]     | 
 |------------|-------------| 
 |  <img src="https://media.giphy.com/media/U4GJUh0noZsyzuFHoO/giphy.gif" width="250"> |  <img src="https://media.giphy.com/media/vGn4IxxWaeS2pyHUro/giphy.gif" width="250"> |
 
-| [**Chat messages**](https://media.giphy.com/media/F8Fp7dQOLaG21VcDe6/giphy.gif)      |     | 
+| [**Chat messages**]      |     | 
 |------------|-------------| 
 |  <img src="https://media.giphy.com/media/F8Fp7dQOLaG21VcDe6/giphy.gif" width="250"> |   |
