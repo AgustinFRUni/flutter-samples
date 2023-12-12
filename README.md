@@ -18,3 +18,11 @@ To build and run this project:
 |------------|-------------| 
 |  <img src="https://media.giphy.com/media/F8Fp7dQOLaG21VcDe6/giphy.gif" width="250"> |  <img src="https://media.giphy.com/media/Ga89Ai7MhNMG945FNX/giphy.gif" width="250"> | 
 
+| **Expense tracker**      |   **Dismissible items**  | 
+|------------|-------------| 
+|  <img src="https://media.giphy.com/media/zF1so4RS1C5yqO45hr/giphy.gif" width="250"> |  <img src="https://media.giphy.com/media/FvciixL3xFuXv471ts/giphy.gif" width="250"> | 
+
+| **Responsive app**      |    | 
+|------------|-------------| 
+|  <img src="https://media.giphy.com/media/ATQAAeumyxWRjehn6O/giphy.gif" width="250"> |   | 
+
