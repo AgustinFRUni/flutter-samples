@@ -4,8 +4,8 @@
 To build and run this project:
 
 1. Get Flutter [here](https://flutter.dev) if you don't already have it
-2. Clone this repository.
-3. `cd` into the repo folder.
+2. Create a flutter project with the same name of the application you want to use, for example 'dice roller'.
+3. Replace the lib folder and the pubspec.yaml file.
 4. run `flutter run-android` or `flutter run-ios` to build the app.
 
 (Please note that a Mac with XCode is required to build for iOS)
